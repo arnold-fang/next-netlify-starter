@@ -4,5 +4,5 @@
 
 [[redirects]]
   from = "/app/p/*"
-  to = "/*"
+  to = "/:splat"
   status = 200
